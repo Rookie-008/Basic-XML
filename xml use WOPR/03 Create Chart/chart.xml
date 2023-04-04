@@ -1,0 +1,7 @@
+<document>
+	<page>
+		<item col="0" row="0" colSpan="5" rowSpan="5">
+			<bar maxHeight="2" data-titles="a,b,c" data-data="1,2,3" />
+		</item>
+	</page>
+</document>

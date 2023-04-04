@@ -1,0 +1,13 @@
+<document>
+	<page>
+		<item col="3" row="0" colSpan="10" rowSpan="3">
+			<table fg="white" width="30%" height="30%" border-type="line" border-fg="gray" columnSpacing="5" columnWidth="8,5,5" data-headers=",#,name,point" interactive="false">
+				<data-data>
+					,1,A,65,{red-fg}fail{/red-fg}
+					,2,B,90,{blue-fg}pass{/blue-fg}
+					,3,C,100,{blue-fg}pass{/blue-fg}
+				</data-data>
+			</table>
+		</item>
+	</page>
+</document>

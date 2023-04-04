@@ -1,0 +1,11 @@
+<document>
+	<page>
+		<item col="0" row="0" colSpan="10" rowSpan="5">
+			<markdown style-paragraph="chalk.white" style-em="chalk.green" style-strong="chalk.cyan.underline" border-type="line" border-fg="gray">
+				<markdown>
+					*ABCDE* &#10;Hello Hello &#10;`A`, `B`, `C`. &#10;[ABCDE](ABCDE)
+				</markdown>
+			</markdown>
+		</item>
+	</page>
+</document>
